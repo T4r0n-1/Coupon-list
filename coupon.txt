@@ -1,3 +1,7 @@
+FISH50
+NEW30 
+CD20
+NEW20
 100off
 10off
 20off
